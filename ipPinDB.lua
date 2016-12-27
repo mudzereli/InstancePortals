@@ -245,7 +245,7 @@ IPUIPinDB = {
 	},
 	
 	[496]={ --[[ Zul'Drak ]]--
-		{82.15, 19.45, {530}}, --gundrak
+		{76.40, 21.25, {530}}, --gundrak
 	},
 	
 	[486]={ --[[ Borean Tundra ]]--
@@ -360,7 +360,7 @@ IPUIPinDB = {
 	},
 	
 	[810]={ --[[ Townlong Steppes ]]--
-		{30, 80, {887}},
+		{34.71, 81.61, {887}},
 	},
 	
 	[858]={ --[[ Dread Wastes ]]--
@@ -368,7 +368,7 @@ IPUIPinDB = {
 	},
 	
 	[809]={ --[[ Kun-Lai Summit ]]--
-		{30, 40, {877}},
+		{36.69, 47.45, {877}},
 		{60, 40, {896}},
 	},
 	
@@ -422,7 +422,7 @@ IPUIPinDB = {
 		{51.4, 28.7, {988}},
 	},
 	[950]={ --[[ Nagrand ]]--
-		{32.75, 34, {994}},
+		{34.7, 38.2, {994}},
 	},
 	
 	
@@ -537,10 +537,10 @@ IPUIInstanceMapDB = {
 
 	--[[ Classic Raids ]]--
 	
-	 [755]={"Blackwing Lair", 2, 50, 1},
-	 [696]={"Molten Core", 2, 50, 1},
-	 [717]={"Ruins of Ahn'Qiraj", 2, 50, 1},
-	 [766]={"Temple of Ahn'Qiraj", 2, 50, 1},
+	 [755]={"Blackwing Lair", 2, 60, 1},
+	 [696]={"Molten Core", 2, 60, 1},
+	 [717]={"Ruins of Ahn'Qiraj", 2, 60, 1},
+	 [766]={"Temple of Ahn'Qiraj", 2, 60, 1},
 	
 	--[[ Burning Crusade Dungeons ]]--
 	
